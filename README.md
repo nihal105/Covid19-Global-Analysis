@@ -99,6 +99,10 @@ Publish dashboard to Power BI Service
 
 Public COVID-19 data sources
 
+## video presentation and Dashboard explanation
+
+https://drive.google.com/file/d/1SNQ-QVXsg6xD8j6ev1P3PbVK3OixtpSC/view?usp=drive_link
+
 Power BI community & documentation
 
 ## Author
